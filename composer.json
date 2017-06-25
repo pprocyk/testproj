@@ -1,0 +1,7 @@
+{
+    "name": "pprocyk/testproj",
+    "require": {
+        "monolog/monolog": "1.0.*",
+	"phpunit/phpunit": "6.2.*"
+    }
+}
